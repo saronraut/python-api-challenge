@@ -3,7 +3,9 @@
 Assignment utiltize API request to perform series of Analysis.
 
 All completed codes are found under starter_code folder:
+    
     code used for assigment Weatherpy. can be found under WeatherPy.ipynb
+    
     codes used to assigment Vacationpy. can be found under VacationPy.ipynb
 
 
