@@ -10,9 +10,11 @@ All completed codes are found under starter_code folder:
 
 
 Folder figure_data contains figure created from weatherpy assignment.
+    
     Contain all the figures from "Plotting the Data" task
 
 WeatherPy: openweathermap.org used for API call
+
 VacationPy : import gmaps https://developers.google.com/maps/reporting/gmp-reporting
 
 
